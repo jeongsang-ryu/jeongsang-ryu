@@ -1,33 +1,52 @@
-# Jeongsang Ryu
-
-**PhD Candidate @ UNIST**  
-High-Assurance Mobility and Control Lab, Mechanical Engineering
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4A90D9&width=500&lines=Hi%2C+I'm+Jeongsang+Ryu+👋;PhD+Candidate+%40+UNIST;SLAM+%7C+Autonomous+Racing+%7C+E2E+Driving)](https://git.io/typing-svg)
 
 ---
 
-## Research Interests
+### About Me
 
-- SLAM (Simultaneous Localization and Mapping)
-- Autonomous Racing
-- End-to-End Autonomous Driving
+- 🎓 PhD Candidate @ **UNIST**, Mechanical Engineering
+- 🔬 **High-Assurance Mobility and Control Lab**
+- 🚗 Researching **SLAM**, **Autonomous Racing**, and **End-to-End Autonomous Driving**
+- 🛠️ Building perception & control systems for real-world autonomous platforms
 
-## Tech Stack
+---
+
+### Tech Stack
 
 **Languages**  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 **Frameworks & Tools**  
-![ARKit](https://img.shields.io/badge/ARKit-000000?style=flat&logo=apple&logoColor=white)
-![RealityKit](https://img.shields.io/badge/RealityKit-000000?style=flat&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
-![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat&logo=nvidia&logoColor=white)
-![Isaac Lab](https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat&logo=nvidia&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Isaac Lab](https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![ARKit](https://img.shields.io/badge/ARKit-000000?style=flat-square&logo=apple&logoColor=white)
+![RealityKit](https://img.shields.io/badge/RealityKit-000000?style=flat-square&logo=apple&logoColor=white)
 
-## Contact
+---
 
-📧 ryujs@unist.ac.kr  
-📧 jeongsangryu@gmail.com
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeongsang-ryu&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongsang-ryu&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jeongsang-ryu&theme=default&hide_border=true" height="150"/>
+</p>
+
+---
+
+### Contact
+
+📧 ryujs@unist.ac.kr &nbsp;|&nbsp; 📧 jeongsangryu@gmail.com
+
+---
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=jeongsang-ryu&style=flat-square&color=4A90D9" alt="profile views"/>
+</p>

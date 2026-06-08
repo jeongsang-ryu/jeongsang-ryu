@@ -1,4 +1,4 @@
-# Jeongsang Ryu (류정상)
+# Jeongsang Ryu
 
 **PhD Candidate @ UNIST**  
 High-Assurance Mobility and Control Lab, Mechanical Engineering

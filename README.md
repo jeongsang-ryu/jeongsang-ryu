@@ -25,4 +25,5 @@ High-Assurance Mobility and Control Lab, Mechanical Engineering
 
 ## Contact
 
-📧 kwonc@unist.ac.kr
+📧 ryujs@unist.ac.kr  
+📧 jeongsangryu@gmail.com

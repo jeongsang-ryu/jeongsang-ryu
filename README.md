@@ -8,6 +8,15 @@
 - 🔬 **High-Assurance Mobility and Control Lab**
 - 🚗 Researching **SLAM**, **Autonomous Racing**, and **End-to-End Autonomous Driving**
 - 🛠️ Building perception & control systems for real-world autonomous platforms
+- 🌐 Portfolio & CV: [jeongsang-ryu.github.io](https://jeongsang-ryu.github.io)
+
+---
+
+### Highlights
+
+- 🥈 2nd Place, 24th RoboRacer Autonomous Racing Competition (2025 ICRA, Atlanta) — Team Leader
+- 🥇 1st Place, 2nd F1TENTH Korea Championship (2023 ICCAS, Yeosu) — Localization, Raceline Optimization
+- 🏁 8th Place, 2024 MOTIE Competition — GNSS + IMU state estimation, LiDAR integration
 
 ---
 
@@ -25,6 +34,7 @@
 ![Isaac Lab](https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![ARKit](https://img.shields.io/badge/ARKit-000000?style=flat-square&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
